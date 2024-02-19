@@ -1,0 +1,19 @@
+resource:
+
+https://www.tutmecode.com/framework/laravel/building-a-crud-application-using-laravel-10-inertia-and-react-start-from-basic/
+
+https://www.nicesnippets.com/blog/laravel-10-react-crud-example-tutorial
+
+
+1.  composer create-project laravel/laravel laravelbreeze-inertia-react
+2.  cd
+3.  env
+4.  installation:
+composer require laravel/breeze --dev
+php artisan breeze:install react
+npm install
+npm run dev  
+5.  Migration, Model, Migrate   [php artisan migrate]
+6.  inertia-react install =[npm install @inertiajs/react]
+
+controller
